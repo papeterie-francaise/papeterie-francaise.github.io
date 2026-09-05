@@ -16,6 +16,9 @@
     <loc>https://www.papeterie-francaise.com/listes-scolaires/</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/varta-pile-bouton-alcaline-electronics-lady-lr1,1739</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/1-x-surligneur-flex-jaune-en-boite-de-12,21619</loc>
   </url>
   <url>
@@ -31,16 +34,7 @@
     <loc>https://www.papeterie-francaise.com/produit/100-epingles-de-signalisation-o-5-mm,21506</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/etui-de-12-crayons-de-couleur-maped-color-peps-star-bois-fsc-coloris-assortis,24417</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/12-crayons-de-couleur-color-peps-strong-en-pochette-carton-45-matiere-recyclee-25-matiere-d-origine-naturelle,21739</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/12-crayons-de-couleur-effacables-oops-color-peps-en-pochette-carton,21671</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/etui-de-12-feutres-maped-color-peps-long-life-pointe-moyenne-coloris-assortis,21685</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/12-feutres-jungle-en-pochette-carton,21696</loc>
@@ -223,9 +217,6 @@
     <loc>https://www.papeterie-francaise.com/produit/ardoise-bois-compresse-noir-30-x-45-cm-2-faces-unies-cadre-bois,16333</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/attache-lettres-32-mm-boite-de-1-000,24994</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/attache-lettres-bout-chevron-galvanise-25-mm-boite-de-100,25229</loc>
   </url>
   <url>
@@ -242,6 +233,9 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/attache-lettres-bout-chevron-galvanise-32-mm-boite-de-1000,25238</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/attache-lettres-32-mm-boite-de-1-000,24994</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/attache-lettres-en-acier-nickele-bout-chevron-25-mm-boite-de-100,25227</loc>
@@ -286,6 +280,9 @@
     <loc>https://www.papeterie-francaise.com/produit/baguettes-relido-3-6mm-noirx50,24918</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-marine-stick-bleu-translucide-15g,24823</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-blanche-uhu-renature-8-g-plastique-d-origine-vegetal,1177</loc>
   </url>
   <url>
@@ -295,19 +292,10 @@
     <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-cleostick-stick-21-g-sans-solvant-ne-tache-pas,24824</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-marine-stick-bleu-translucide-15g,24823</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-scotch-lot-de-5-8-g,536</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-transparente-adhesive-stick-8-gr-des-6-ans,24826</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-uhu-renature-stick-21-g-plastique-d-origine-vegetal,1175</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-uhu-renature-stick-40-g-plastique-d-origine-vegetal,1178</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-uhu-stick-21-g-sans-solvant-rapide-pratique-et-propre,1156</loc>
@@ -317,6 +305,12 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-uhu-stick-8-2-g-sans-solvant-rapide-pratique-et-propre,1154</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-uhu-renature-stick-21-g-plastique-d-origine-vegetal,1175</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/baton-de-colle-uhu-renature-stick-40-g-plastique-d-origine-vegetal,1178</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/batonnets-de-colle-multi-usages-pour-mini-pistolets-etui-de-20,24867</loc>
@@ -334,25 +328,16 @@
     <loc>https://www.papeterie-francaise.com/produit/bic-4-couleurs-original-stylos-bille-retractables-pointe-fine-0-8-mm-boite-de-12,24726</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/bic-4-couleurs-original-stylos-bille-retractables-pointe-moyenne-1-0-mm-boite-de-12,24725</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/bic-4-couleurs-recharges-pour-stylo-bille-pointe-moyenne-1-0-mm-rouge-boite-de-50,24708</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bic-4-couleurs-shine-stylos-bille-retractables-pointe-moyenne-1-0-mm-corps-dore-metallise-boite-de-12,24728</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/bic-4-couleurs-shine-stylos-bille-retractables-pointe-moyenne-1-0-mm-corps-rouge-metallise-boite-de-12,24727</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/bic-marking-2000-ecolutions-marqueurs-permanents-a-pointe-conique-moyenne-bleu-boite-de-12,24714</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bic-marking-2300-ecolutions-marqueurs-permanents-a-pointe-moyenne-biseautee-noir-boite-de-12,24715</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/bic-mines-graphite-hb-2-mm-blister-de-1-etui-de-6-mines,24721</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bic-velleda-1721-feutres-pour-tableau-blanc-effacables-a-sec-pointe-conique-fine-noir-boite-de-24,24718</loc>
@@ -370,22 +355,13 @@
     <loc>https://www.papeterie-francaise.com/produit/blister-calculatrice-bleue-et-grise-8-chiffres-avec-etui,25257</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/blister-de-10-pochettes-adhesives-transparentes-pour-cartes-de-visite-format-60x105-mm,24881</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/blister-de-10-tubes-de-gouache-10ml,24828</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/blister-de-12-porte-etiquettes-adhesives-en-polypropylene-format-25x75-mm,24883</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/blister-de-3-stic-blanc-21-g-1-stic-8-g-offert,25189</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/blister-de-4-piles-aaa-lr03-varta-longlife-power-1-5-volt-hauteur-44-5-mm-diametre-10-5-mm,1756</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/blister-de-6-porte-etiquettes-adhesives-en-polypropylene-format-46x75-mm,24884</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bloc-agrafe-rhodia-black-n-16-14-8x21-cm-80-feuillets-uni-80-g,24800</loc>
@@ -401,15 +377,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-agrafes-210x297mm-160p-80g-q5-5-format-a4,4464</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-a4-80-feuilles-quadrillees-5x5-80g-perfore-4-trous,9818</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-80-feuilles-perforees-format-a4-reglure-seyes-papier-blanc-80g,9816</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-black-format-21-x-29-7-cm-80-feuilles-q-5x5-80-g,9807</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-format-10-5-x-14-8-cm-80-feuilles-q-5x5-80g,9799</loc>
@@ -430,10 +397,19 @@
     <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-format-a4-80-feuilles-q-5x5-80g,9814</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-orange-a5-14-8-21-cm-80-feuilles-quadrillees-5x5-80-g,9804</loc>
+    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-black-format-21-x-29-7-cm-80-feuilles-q-5x5-80-g,9807</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-a4-80-feuilles-seyes-80-g-microperfore-et-perfore-4-trous,9816</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-a4-80-feuilles-quadrillees-5x5-80g-perfore-4-trous,9818</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-orange-format-21-x-29-7-cm-80-feuilles-q-5x5-80-g,9808</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/bloc-de-bureau-rhodia-orange-a5-14-8-21-cm-80-feuilles-quadrillees-5x5-80-g,9804</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bloc-notes-agrafe-100f-60g-14-8x21-q-5x5,24799</loc>
@@ -502,7 +478,19 @@
     <loc>https://www.papeterie-francaise.com/produit/boite-de-12-pastels-a-l-huile-pentel-arts-diametre-8-mm,18366</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/boite-de-12-stylos-bille-bic-4-couleurs-original-retractables-et-rechargeables-pointe-moyenne-1-0-mm,24725</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/boite-de-12-stylos-bille-bic-4-couleurs-shine-pointe-1-0-mm-corps-rouge-metallise,24727</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/boite-de-25-pastels-a-l-huile-pentel-arts-diametre-8-mm,18367</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/boite-de-3-recharges-stabilo-easyoriginal-0-5-mm-encre-bleue-effacable,5530</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/boite-de-4-rouleaux-de-gommettes-geometriques-xl-apli-5428-gommettes-4-formes-et-4-couleurs,24699</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/boite-de-5-000-agrafes-24-6-boite-brochable,21499</loc>
@@ -521,9 +509,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/boite-presentoir-24-batons-de-colle-8-g,25012</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/boite-x-3-recharges-stabilo-easyoriginal-0-5-mm-encre-bleue-effacable,5530</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/bombe-a-air-depoussierante-400-ml-natec,24748</loc>
@@ -718,6 +703,12 @@
     <loc>https://www.papeterie-francaise.com/produit/calculatrice-scolaire-ti-106-ii-classe-primaire-bleu,25180</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/calendrier-bancaire-recto-verso-7-mois-face-bleu-21-x-26-5-cm,24781</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/calendrier-bancaire-recto-verso-7-mois-face-rouge-21-x-26-5-cm,24782</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/calendrier-bancaire-annee-civile-bouchut-205-bleu-13-5-x-17-5-cm-coloris-bleu,24779</loc>
   </url>
   <url>
@@ -740,12 +731,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/calendrier-bancaire-illustre-annee-civile-bouchut-planete-medium-32-x-42-cm,24791</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/calendrier-bancaire-recto-verso-7-mois-face-bleu-21-x-26-5-cm,24781</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/calendrier-bancaire-recto-verso-7-mois-face-rouge-21-x-26-5-cm,24782</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/calendrier-bloc-mensuel-a-feuillets-annee-civile-bouchut-409-animaux-19-x-36-cm,24783</loc>
@@ -826,6 +811,9 @@
     <loc>https://www.papeterie-francaise.com/produit/chemise-coin-esselte-lot-de-10-transparent,20535</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/ciseaux-advanced-gel-17cm,21559</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/ciseaux-15-cm-swing-lames-acier-inox-bouts-ronds-anneaux-symetriq-vrac,25212</loc>
   </url>
   <url>
@@ -833,9 +821,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/ciseaux-21-cm-deepsea-paradise-asymetriques-decors-assortis-en-blister-100-carton,21549</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/ciseaux-advanced-gel-17cm,21559</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/ciseaux-advanced-green-17-cm-symetriques,21557</loc>
@@ -880,22 +865,22 @@
     <loc>https://www.papeterie-francaise.com/produit/clavier-filaire-keyouest-office-noir,24967</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/clavier-sans-fil-confort-repose-poignets-integre-bouton-on-off,25154</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/clavier-sans-fil-souris-sans-fil-office-compatible-avec-les-pc-et-mac-fonction-plug-play,25146</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/cle-8go-usb-2-0-netac,24749</loc>
+    <loc>https://www.papeterie-francaise.com/produit/clavier-sans-fil-confort-repose-poignets-integre-bouton-on-off,25154</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/cle-usb-2-0-32-gb-rugby-equipe-de-france,24745</loc>
+    <loc>https://www.papeterie-francaise.com/produit/cle-8go-usb-2-0-netac,24749</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/cle-usb-2-mini-u197-16go-netac,24750</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/cle-usb-2-mini-u197-32go-netac,24751</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/cle-usb-2-0-32-gb-rugby-equipe-de-france,24745</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/cle-usb-netac-16-go-blanc-bleu,24757</loc>
@@ -1090,9 +1075,6 @@
     <loc>https://www.papeterie-francaise.com/produit/crayons-de-couleur-black-edition-36x-etui-en-carton,7022</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/etui-de-12-crayons-de-couleur-bic-kids-evolution-sans-bois-50-recycles-coloris-assortis,3218</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/crayons-de-couleur-school-peps-pot-de-72-maped,25008</loc>
   </url>
   <url>
@@ -1177,6 +1159,9 @@
     <loc>https://www.papeterie-francaise.com/produit/dy-lt-200b-printer-2-bundle-global,263</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/dymo-labelwriter-5xl-impression-d-etiquettes-jusqu-a-104-mm-de-largeur-dim-250-x-250-x-260-mm-usb-300-x-300-dpi,20931</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/dymo-R-ruban-d1-12-mm-x-7-m-noir-sur-blanc-pack-economique-de-10-rubans-d1-ref-s0720530,21023</loc>
   </url>
   <url>
@@ -1184,9 +1169,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/dymo-R-ruban-d1-9-mm-x-7-m-noir-sur-blanc-pack-economique-de-10-rubans-d1-ref-s0720680,21022</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/dymo-labelwriter-5xl-impression-d-etiquettes-jusqu-a-104-mm-de-largeur-dim-250-x-250-x-260-mm-usb-300-x-300-dpi,20931</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/echecs-bois-vintage,25253</loc>
@@ -1225,6 +1207,9 @@
     <loc>https://www.papeterie-francaise.com/produit/edding-htk25-recharge-d-encre-jaune-25ml,24907</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/encre-de-chine-cleopatre-flacon-de-55-ml-noir,24846</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/encre-a-dessiner-cleopatre-flacon-de-250-ml-blanc,24833</loc>
   </url>
   <url>
@@ -1256,9 +1241,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/encre-a-dessiner-cleopatre-flacon-de-250-ml-violet,24839</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/encre-de-chine-cleopatre-flacon-de-55-ml-noir,24846</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/epingles-argentine-en-acier-nickele-n-4-longueur-30-mm-boite-de-500,25207</loc>
@@ -1300,9 +1282,6 @@
     <loc>https://www.papeterie-francaise.com/produit/etiquettes-scolaires-blanches-pochette-de-120-dim-38-5x65mm,24707</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/etiquettes-scolaires-lignees-pochette-de-120-dim-36-x-56-mm,24706</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/etui-carton-x-12-feutres-de-coloriage-pointe-moyenne-stabilo-power,5692</loc>
   </url>
   <url>
@@ -1312,7 +1291,7 @@
     <loc>https://www.papeterie-francaise.com/produit/etui-carton-x-4-stabilo-boss-original-naturecolors-beige-rose-gris-taupe-vert-eucalyptus-noir,14843</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/etui-de-4-stabilo-boss-original-naturecolors-marron-glace-orange-rouille-vert-tilleul-et-noir,14842</loc>
+    <loc>https://www.papeterie-francaise.com/produit/etui-carton-x-4-stabilo-markdry-1-taille-crayons-1-chiffonnette,14794</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/etui-carton-x-6-stabilo-boss-original-naturecolors,14844</loc>
@@ -1321,10 +1300,31 @@
     <loc>https://www.papeterie-francaise.com/produit/etui-carton-x-8-stabilo-boss-original-naturecolors,14845</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/etui-de-12-crayons-de-couleur-bic-kids-evolution-sans-bois-50-recycles-coloris-assortis,3218</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/etui-de-12-crayons-de-couleur-hexagonaux-aquarellables-couleurs-assorties,25040</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/etui-de-12-crayons-de-couleur-maped-color-peps-star-bois-fsc-coloris-assortis,24417</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/etui-de-12-crayons-maped-color-peps-strong-en-resine-avec-mine-ultra-resistante-3-2-mm-45-de-matiere-recyclee-et-25-d-origine-naturelle,21739</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/etui-de-12-feutres-maped-color-peps-long-life-pointe-moyenne-coloris-assortis,21685</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/etui-de-24-crayons-de-couleurs-hexagonaux-aquarellables-couleurs-assorties-normes-ce-fsc,25041</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/etui-de-4-stabilo-boss-original-naturecolors-marron-glace-orange-rouille-vert-tilleul-et-noir,14842</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/etui-de-5-marqueurs-peinture-stabilo-free-acrylic-t100-set-royal-pointe-1-2-mm,25160</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/etui-de-6-mines-graphite-bic-criterium-hb-diametre-2-mm,24721</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/etui-zig-zag-de-18-feutres-stabilo-pen-68-pointe-moyenne-1-mm,14902</loc>
@@ -1381,13 +1381,13 @@
     <loc>https://www.papeterie-francaise.com/produit/feutre-pen-68-etui-colorparade-de-20-pointe-moyenne-stabilo,25159</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/feutre-pilot-v-sign-pen-noir-pointe-moyenne-2-mm-trace-0-6-mm,2376</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/feutre-v-signpen-pointe-large-2-mm-violet,2380</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/feutre-v-signpen-pointe-moyenne-2-mm-bleu,2378</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/feutre-pilot-v-sign-pen-noir-pointe-moyenne-2-mm-trace-0-6-mm,2376</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/feutre-v-signpen-pointe-moyenne-2-mm-rouge,2377</loc>
@@ -1420,9 +1420,6 @@
     <loc>https://www.papeterie-francaise.com/produit/fourre-tout-trapeze-oxford-cuir-naturel-beige,24945</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/frixion-ball-clicker-roller-encre-gel-bleu-nuit-pointe-moyenne,2893</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/frixion-ball-roller-encre-gel-chocolat-pointe-moyenne,2452</loc>
   </url>
   <url>
@@ -1430,6 +1427,9 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/frixion-ball-roller-encre-gel-orange-abricot-pointe-moyenne,2658</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/frixion-ball-clicker-roller-encre-gel-bleu-nuit-pointe-moyenne,2893</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/gel-roller-recharge-0-7mm-582153-bleu-3-pieces,16272</loc>
@@ -1493,12 +1493,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/gomme-technic-600-green-avec-fourreau-carton-recycle-sans-pvc-et-sans-phtalate,21402</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/gommettes-geantes-formes-et-couleurs-assorties-4-rouleaux-5428-gommettes,24699</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/gommettes-motifs-et-coloris-assortis-30-planches-de-21-6-x-16-6-cm-3636-gommettes,24701</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/gouache-a-gratter-nefertari-scratch-250ml,24866</loc>
@@ -1723,10 +1717,13 @@
     <loc>https://www.papeterie-francaise.com/produit/mallette-metal-de-20-marqueurs-pointes-assorties-street-vibes-couleurs-assorties,6520</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/marque-pages-fleches-de-couleur-assorties-4-x-24-index-format-12-x-44-mm,501</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/marque-pages-12x44mm-4-couleurs-ass-140-feuilles,499</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/marque-pages-fleches-de-couleur-assorties-4-x-24-index-format-12-x-44-mm,501</loc>
+    <loc>https://www.papeterie-francaise.com/produit/marqueur-bic-velleda-1721-pour-tableau-blanc-noir-pointe-ogive-fine-trace-1-5-mm,23385</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-craie-pointe-biseautee-large-uni-ball-chalk-marker-blanc,6306</loc>
@@ -1771,13 +1768,13 @@
     <loc>https://www.papeterie-francaise.com/produit/marqueur-permanent-n50-pointe-ogive-4-3-mm-vert,25047</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/marqueur-permanent-pilot-twin-marker-begreen-rouge-double-pointe-fine-et-extra-fine,2621</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-permanent-twin-marker-begreen-bleu,2620</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-permanent-twin-marker-begreen-noir,2619</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/marqueur-permanent-twin-marker-begreen-rouge,2621</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-calibree-extra-fine-blanc,6278</loc>
@@ -1798,12 +1795,6 @@
     <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-extra-fine-or,6219</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-fine-bleu-fonce,23425</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-fine-jaune,23427</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-fine-posca-marker-blanc,23423</loc>
   </url>
   <url>
@@ -1816,10 +1807,10 @@
     <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-fine-posca-marker-rouge,23433</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-moyenne-bleu-fonce,23408</loc>
+    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-fine-bleu-fonce,23425</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-moyenne-jaune,23410</loc>
+    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-fine-jaune,23427</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-moyenne-posca-marker-blanc,23406</loc>
@@ -1832,6 +1823,12 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-moyenne-posca-marker-rouge,23418</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-moyenne-bleu-fonce,23408</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-conique-moyenne-jaune,23410</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-pointe-large-biseautee-posca-marker-blanc,23393</loc>
@@ -1885,9 +1882,6 @@
     <loc>https://www.papeterie-francaise.com/produit/marqueur-velleda-1721-tableaux-blancs-bleu-pointe-ogive-de-1-5-mm,23384</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/marqueur-velleda-1721-tableaux-blancs-noir-pointe-ogive-de-1-5-mm,23385</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueur-velleda-1741-tableaux-blancs-bleu-pointe-ogive-de-2-0-mm,23348</loc>
   </url>
   <url>
@@ -1895,9 +1889,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueurs-velleda-1711-tableaux-blancs-etui-de-4-pointe-ogive-large-de-6-0-mm,24722</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-marqueurs-bic-velleda-1721-pour-tableau-blanc-pointe-ogive-trait-1-5-mm-coloris-assortis,23388</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/marqueurs-velleda-1741-tableaux-blancs-pochette-de-4-pointe-ogive-de-2-0-mm,23491</loc>
@@ -1924,10 +1915,10 @@
     <loc>https://www.papeterie-francaise.com/produit/min-pack-de-2-recharges-bille-noir,24924</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/mini-brosse-pour-ardoise-naturelle-s-sachet-ls,16478</loc>
+    <loc>https://www.papeterie-francaise.com/produit/mini-pistolet-colle-2-batons-de-colle-multi-usages-station-de-maintien,24869</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/mini-pistolet-colle-2-batons-de-colle-multi-usages-station-de-maintien,24869</loc>
+    <loc>https://www.papeterie-francaise.com/produit/mini-brosse-pour-ardoise-naturelle-s-sachet-ls,16478</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/montre-connectee-core-2-noire-ksix,24739</loc>
@@ -1981,22 +1972,16 @@
     <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-beachside-76-x-76-mm-6-blocs-100-pefc,12406</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-couleurs-beachside-38-mm-x-51-mm-100-feuilles-bloc-12-blocs-paquet,12407</loc>
+    <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-couleurs-energie-76-x-76-mm-6-blocs,24682</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-couleurs-energie-38-x-51-mm-12-blocs,24681</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-couleurs-energie-76-x-76-mm-6-blocs,24682</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-grands-formats-blocs-de-100-feuilles-102-x-152-mm-jaune-quadrille,12369</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-jaune-51-x-76-mm,24676</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-jaune-pastel-12-blocs-76-mm-x-102-mm,24677</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-super-sticky-couleurs-boost-76-mm-x-127-mm-90-feuilles-bloc-5-blocs-paquet,12395</loc>
@@ -2008,13 +1993,19 @@
     <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-super-sticky-couleurs-soulful-76-mm-x-76-mm-90-feuilles-bloc-4-blocs-paquet-2-blocs-gratuits,12390</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/notes-repositionnables-post-it-76x127-mm-couleurs-energiques-assorties-lot-de-6-blocs-de-100-feuilles,12403</loc>
+    <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-couleurs-beachside-38-mm-x-51-mm-100-feuilles-bloc-12-blocs-paquet,12407</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/notes-post-it-R-jaune-pastel-12-blocs-76-mm-x-102-mm,24677</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/notes-repositionnables-post-it-jaune-pastel-38x51-mm-12-blocs-de-100-feuilles,12439</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/notes-repositionnables-post-it-76x76-mm-bloc-de-100-feuilles-lot-de-12,12434</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/notes-repositionnables-post-it-jaune-pastel-38x51-mm-12-blocs-de-100-feuilles,12439</loc>
+    <loc>https://www.papeterie-francaise.com/produit/notes-repositionnables-post-it-76x127-mm-couleurs-energiques-assorties-lot-de-6-blocs-de-100-feuilles,12403</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/notes-repositionnables-tartanTM-jaunes-76-x-127-mm,12362</loc>
@@ -2045,9 +2036,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/p-18f-1872-gommettes-rondes,18245</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/p18f-2160-gommettes-triangles,18248</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/p18f-2268-gommettes-carres,18246</loc>
@@ -2131,13 +2119,7 @@
     <loc>https://www.papeterie-francaise.com/produit/perforateur-1-trou-punchito,21578</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-class-n-buro-20-feuilles-metal-noir,25226</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-essentials-metal-2-trous-30-35-feuilles,21527</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-essentials-metal-e4011-10-12-feuilles,21525</loc>
+    <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-essentials-metal-e4064-60-70-feuilles,21530</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-essentials-metal-e4024-20-25-feuilles,21526</loc>
@@ -2146,13 +2128,19 @@
     <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-essentials-metal-e4044-40-45-feuilles,21529</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-essentials-metal-e4064-60-70-feuilles,21530</loc>
+    <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-class-n-buro-20-feuilles-metal-noir,25226</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/perforateur-2-trous-essentials-metal-e4011-10-12-feuilles,21525</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/perforateur-4-trous-essentials-metal-e4001-10-12-feuilles,21524</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/perforateur-flocon-o-76-mm-a-levier-corps-plastique-avec-reserve-ls,25209</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/perforateur-maped-essentials-metal-e4034-2-trous-30-35-feuilles-noir,21527</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/perforateur-metal-4-trous-720-bleu-poudre-20-flles,17956</loc>
@@ -2176,13 +2164,13 @@
     <loc>https://www.papeterie-francaise.com/produit/pigment-brush-371-etui-carton-12-feutres-pointe-pinceau-couleurs-portrait-assorties,15975</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/pile-alcaline-energizer-6lr61-max-ex-ultra-bister-de-1,25022</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/pile-alcaline-energizer-lr03-max-ex-ultra-blister-de-4,25029</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pile-alcaline-energizer-lr06-max-ex-ultra-blister-de-4,25030</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pile-alcaline-energizer-6lr61-max-ex-ultra-bister-de-1,25022</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pile-alcaline-energizer-lr14-max-ex-ultra-blister-de-2,25031</loc>
@@ -2218,25 +2206,10 @@
     <loc>https://www.papeterie-francaise.com/produit/piles-alcaline-verbatim-lr06-aa-pack-de-4-piles,25201</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-economy-e10-rapid-argent,18418</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-economy-e84-rapid-argent,18417</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-essentials-metal-e4400-prof-agr-35-mm-agrafes-n-10-jusqu-a-15-feuilles,21532</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-expert-profondeur-agr-60-mm-agrafes-24-6-26-6-24-8-et-26-8-jusqu-a-45-feuilles,21537</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-f11-fixativ-rapid-noir,18432</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-f19-fixativ-rapid-noir,18433</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-f84-fixativ-rapid-noir,18434</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-forte-hd31-profondeur-d-agrafage-65-mm-agrafes-73-6-12-jusqu-a-70-feuilles,23875</loc>
@@ -2249,6 +2222,21 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-sp19-profondeur-d-agrafage-65-mm-agrafes-sp19-6-jusqu-a-20-feuilles-chrome,18396</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-economy-e84-rapid-argent,18417</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-f11-fixativ-rapid-noir,18432</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-f19-fixativ-rapid-noir,18433</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-f84-fixativ-rapid-noir,18434</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pince-agrafeuse-economy-e10-rapid-argent,18418</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pinceaux-colle-manche-en-plastique-longueur-des-poils-10-mm-lot-de-10,24858</loc>
@@ -2329,9 +2317,6 @@
     <loc>https://www.papeterie-francaise.com/produit/pochette-4940-gommettes-geometriques-couleurs-vives-formes-assorties-adhesif-enlevable-pochette-de-40-feuilles,24697</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/pochette-canson-R-papier-a-dessin-blanc-c-a-grain-R-24x32cm-12fl-180g-mi,24340</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/pochette-canson-R-papier-calque-a4-12fl-70g-mi,4158</loc>
   </url>
   <url>
@@ -2341,16 +2326,25 @@
     <loc>https://www.papeterie-francaise.com/produit/pochette-canson-R-papier-millimjtrj-bistre-a4-12fl-90g-mi,24341</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/pochette-canson-R-papier-a-dessin-blanc-c-a-grain-R-24x32cm-12fl-180g-mi,24340</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pochette-de-120-etiquettes-scolaires-apli-agipa-lignees-36-56-mm-cadre-et-lignes-bleus,24706</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pochette-de-2160-gommettes-triangles-apli-agipa-en-papier-adhesif-permanent-18-feuilles-plusieurs-tailles-et-8-couleurs-assorties-pour-ecole-et-loisirs-creatifs,18248</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/pochette-de-3-rollers-encre-gel-metallique-hybrid-gel-grip-dx-k230-1-x-or-1-x-argent-1-x-blanc,25044</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-1-feutres-techniques-pointes-calibrees-01-03-05-07-09-uniball-pointes-calibrees-noir-pin-5-pf-asp008,25016</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-1-feutres-techniques-pointes-calibrees-02-04-06-08-10-uniball-pointes-calibrees-noir-pin-5-pf-asp009,25017</loc>
+    <loc>https://www.papeterie-francaise.com/produit/pochette-de-3636-gommettes-apli-agipa-formes-et-couleurs-assorties-30-feuilles,24701</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-marqueur-universel-permanent-maxx-224-m-1-mm-coloris-assortis,25111</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-marqueurs-bic-velleda-1721-pour-tableau-blanc-pointe-ogive-trait-1-5-mm-coloris-assortis,23388</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-marqueurs-craie-pointe-conique-moyenne-couleurs-assorties,6511</loc>
@@ -2360,6 +2354,12 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-stylo-feutre-paper-mate-flair-original-classic-medium-pointe-m-1-mm-4-coloris-assortis,25065</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-1-feutres-techniques-pointes-calibrees-01-03-05-07-09-uniball-pointes-calibrees-noir-pin-5-pf-asp008,25016</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/pochette-de-4-1-feutres-techniques-pointes-calibrees-02-04-06-08-10-uniball-pointes-calibrees-noir-pin-5-pf-asp009,25017</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/pochette-papier-calque-70-75-g-m2-21-x-29-7-cm-12-feuilles-3-gratuites-soit-25-gratuit,22320</loc>
@@ -2419,22 +2419,22 @@
     <loc>https://www.papeterie-francaise.com/produit/power-bank-felixx-pro-10-capacite-batterie-10000mah-2-ports-de-sortie-usb-type-a-connecteur-micro-usb-coloris-noir,24755</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/punaises-3-pointes-acier-nickele-diametre-12-mm-boite-de-100,25218</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/punaises-coloris-assortis-diametre-10-mm-boite-de-100,25219</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/punaises-3-pointes-acier-nickele-diametre-12-mm-boite-de-100,25218</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/punaises-laitonnees-diametre-10-mm-boite-de-100,25217</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/puzzle-il-etait-une-fois-50pcs-29x21cm-6,25248</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/puzzle-fait-main-michele-wilson-carte-de-france-100-pieces-30x30cm-8,25252</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/puzzle-fait-main-michele-wilson-crocos-et-compagnie-100-pieces-29x21cm-8,25251</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/puzzle-il-etait-une-fois-50pcs-29x21cm-6,25248</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/rapesco-1072-porte-bloc-standard-a5-noir,25082</loc>
@@ -2539,10 +2539,10 @@
     <loc>https://www.papeterie-francaise.com/produit/recharge-bille-pointe-moyenne-bleu,20959</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/recharge-bille-quinkflow-noire-m-sous-blister,3434</loc>
+    <loc>https://www.papeterie-francaise.com/produit/recharge-bille-quinkflow-pointe-moyenne-bleue-sous-blister,3436</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/recharge-bille-quinkflow-pointe-moyenne-bleue-sous-blister,3436</loc>
+    <loc>https://www.papeterie-francaise.com/produit/recharge-bille-quinkflow-noire-m-sous-blister,3434</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/recharge-collage-3-en-1-sans-solvant-flacon-de-810-ml,25191</loc>
@@ -2584,6 +2584,9 @@
     <loc>https://www.papeterie-francaise.com/produit/recharge-frixion-ball-0-7-mm-encre-gel-effacable-vert-set-de-3,25052</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/recharge-pilot-v-board-master-encre-noire-effacable-a-sec-wbs-vbm-b,2435</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/recharge-pour-colle-roll-n-glue,2991</loc>
   </url>
   <url>
@@ -2596,6 +2599,9 @@
     <loc>https://www.papeterie-francaise.com/produit/recharge-roller-waterman-cartouche-metal-pointe-fine-noire,25206</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/recharge-rouge-pilot-v-board-master-wbs-vbm-r-pour-marqueurs-tableau-blanc-rechargeables-encre-liquide-effacable-a-sec,2437</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/recharge-slider-755-xb-pointe-1-4-mm-epaisseur-de-trait-0-8-mm-bleu,25136</loc>
   </url>
   <url>
@@ -2603,12 +2609,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/recharge-v-board-master-bleu,2436</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/recharge-v-board-master-noir,2435</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/recharge-v-board-master-rouge,2437</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/recharge-v-board-master-vert,2548</loc>
@@ -2734,6 +2734,9 @@
     <loc>https://www.papeterie-francaise.com/produit/roller-encre-liquide-ecriture-moyenne-uni-ball-eye-pointe-metal-noir,25019</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/roller-energel-retractable-et-rechargeable-pointe-metal-0-7-mm-rose,3170</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/roller-energel-retractable-et-rechargeable-pointe-metal-0-7-mm-bleu,3162</loc>
   </url>
   <url>
@@ -2744,9 +2747,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/roller-energel-retractable-et-rechargeable-pointe-metal-0-7-mm-orange,3168</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-energel-retractable-et-rechargeable-pointe-metal-0-7-mm-rose,3170</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/roller-energel-retractable-et-rechargeable-pointe-metal-0-7-mm-rouge,3161</loc>
@@ -2762,24 +2762,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/roller-energel-x-retractable-et-rechargeable-pointe-metal-0-7-mm-noir,3160</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-pilot-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-0-7-mm-noir,2533</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-rose,2538</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-rouge,2534</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-turquoise,2537</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-vert,2535</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-violet,2536</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-encre-gel-effacable-pointe-fine-0-5-mm-bleu,2675</loc>
@@ -2809,7 +2791,25 @@
     <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-encre-gel-effacable-pointe-moyenne-0-7-mm-violet,23791</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-bleu,2532</loc>
+    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-rose,2538</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-rouge,2534</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-turquoise,2537</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-vert,2535</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/roller-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-moyenne-0-7-mm-violet,2536</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/roller-pilot-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-0-7-mm-bleu,2532</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/roller-pilot-frixion-ball-clicker-retractable-encre-gel-effacable-pointe-0-7-mm-noir,2533</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/roller-retractable-ecriture-moyenne-uni-ball-jetstream-rt-noir,6227</loc>
@@ -2818,10 +2818,10 @@
     <loc>https://www.papeterie-francaise.com/produit/roller-v-ball-bleu-encre-liquide-pointe-fine-0-5-mm,23361</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-v-ball-noir-encre-liquide-pointe-fine-0-5-mm,23362</loc>
+    <loc>https://www.papeterie-francaise.com/produit/roller-v-ball-noir-encre-liquide-pointe-moyenne-0-7-mm,23380</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/roller-v-ball-noir-encre-liquide-pointe-moyenne-0-7-mm,23380</loc>
+    <loc>https://www.papeterie-francaise.com/produit/roller-v-ball-noir-encre-liquide-pointe-fine-0-5-mm,23362</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/ruban-adhesif-double-face-scotch-R-12-mm-x-7-88-m-25-gratuit-sur-le-devidoir-a-main,532</loc>
@@ -2965,15 +2965,6 @@
     <loc>https://www.papeterie-francaise.com/produit/set-de-bureau-x-23-surligneurs-stabilo-boss-original-arty,14706</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/sharpie-R-marqueur-permanent-sharpie-fineTM-capuchonne-pointe-fine-0-9-mm-trace-0-7-mm-encre-bleue-boite-de-12,25143</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/sharpie-R-marqueur-permanent-sharpie-fineTM-capuchonne-pointe-fine-0-9-mm-trace-0-7-mm-encre-noire-boite-de-12,10543</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/sharpie-R-marqueur-permanent-sharpie-fineTM-capuchonne-pointe-fine-0-9-mm-trace-0-7-mm-encre-rouge-boite-de-12,25142</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/sharpie-perm-f-black-vp30-6-pe,25141</loc>
   </url>
   <url>
@@ -2984,6 +2975,15 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/sharpie-pmkr-rt-blk-tk12-pe,10548</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/sharpie-R-marqueur-permanent-sharpie-fineTM-capuchonne-pointe-fine-0-9-mm-trace-0-7-mm-encre-bleue-boite-de-12,25143</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/sharpie-R-marqueur-permanent-sharpie-fineTM-capuchonne-pointe-fine-0-9-mm-trace-0-7-mm-encre-noire-boite-de-12,10543</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/sharpie-R-marqueur-permanent-sharpie-fineTM-capuchonne-pointe-fine-0-9-mm-trace-0-7-mm-encre-rouge-boite-de-12,25142</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/slider-rave-3-1-set-promotion-retractable-et-rechargeable-noir,25114</loc>
@@ -3034,9 +3034,6 @@
     <loc>https://www.papeterie-francaise.com/produit/souris-sans-fil-rechargeable-clic-silencieux-noir-ekogreen,25148</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/stabilo-free-t100-couleurs-royal-pointe-1-2mm-x5,25160</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/stabilo-free-t300-couleurs-urban-pointe-2-3mm-x5,25162</loc>
   </url>
   <url>
@@ -3050,6 +3047,12 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/stylo-a-bille-haptify-bleu-recharge-express-775-m-bleue,25115</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-flexgrip-ultra-retractable-medium-1-0-mm-noir-value-pack-boite-de-30-6,2971</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-inkjoy-100-cap-noir-boite-de-80-20-offerts,3390</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/stylo-bille-acro1000-ecriture-noire-pointe-moyenne-1mm-coloris-assortis-coffret-offert,25048</loc>
@@ -3067,19 +3070,7 @@
     <loc>https://www.papeterie-francaise.com/produit/stylo-bille-acroball-begreen-clip-plastique-retractable-pointe-moyenne-vert-begreen,2569</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-cristal-bleu-pointe-de-1-0-mm-bic,3035</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-cristal-noir-pointe-de-1-0-mm-bic,3034</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/stylo-bille-cristal-pointe-moyenne-vert,3037</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-cristal-rouge-pointe-de-1-0-mm-bic,3036</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-flexgrip-ultra-retractable-medium-1-0-mm-noir-value-pack-boite-de-30-6,2971</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/stylo-bille-flexgrip-ultra-retractable-pointe-moyenne-bleu,2976</loc>
@@ -3089,9 +3080,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/stylo-bille-flexgrip-ultra-retractable-pointe-moyenne-rouge,2973</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-inkjoy-100-cap-noir-boite-de-80-20-offerts,3390</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/stylo-bille-inkjoy-100-retractable-pointe-moyenne-1-mm-noir,3356</loc>
@@ -3169,6 +3157,15 @@
     <loc>https://www.papeterie-francaise.com/produit/stylo-encre-gel-papermate-jiffy-cap-pointe-0-5-mm-bleu,25071</loc>
   </url>
   <url>
+    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-cristal-bleu-pointe-de-1-0-mm-bic,3035</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-cristal-noir-pointe-de-1-0-mm-bic,3034</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/stylo-bille-cristal-rouge-pointe-de-1-0-mm-bic,3036</loc>
+  </url>
+  <url>
     <loc>https://www.papeterie-francaise.com/produit/stylos-bille-100-cap-noir-extra-fin-0-5-mm-boite-de-50-papermate,25076</loc>
   </url>
   <url>
@@ -3184,18 +3181,6 @@
     <loc>https://www.papeterie-francaise.com/produit/surligneur-ecoline-e24-pointe-biseaute-en-a-base-d-eau-2-a-5-mm-label-ange-bleu-pochette-de-4-assortis-jaune-orange-rose-vert,24904</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-jaune-pochette-4-pieces,25106</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-lilas,25133</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-menthe,25130</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-peche,25132</loc>
-  </url>
-  <url>
     <loc>https://www.papeterie-francaise.com/produit/surligneur-job-pointe-biseautee-1-5-mm-bleu,25120</loc>
   </url>
   <url>
@@ -3209,6 +3194,18 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/surligneur-job-pointe-biseautee-1-5-mm-vert,25121</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-jaune-pochette-4-pieces,25106</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-lilas,25133</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-menthe,25130</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-job-peche,25132</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/surligneur-job-rose,25134</loc>
@@ -3232,7 +3229,22 @@
     <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-lilas,5545</loc>
   </url>
   <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-orange,5542</loc>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-rose,5543</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-rouge,5538</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-turquoise,5544</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-vert,5539</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-violet,5541</loc>
+  </url>
+  <url>
+    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-orange-fluo-pointe-biseautee-2-a-5-mm-rechargeable,5542</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-pastel-brume-de-lilas,5137</loc>
@@ -3275,21 +3287,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-pastel-zeste-de-citron-vert,14620</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-rose,5543</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-rouge,5538</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-turquoise,5544</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-vert,5539</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/surligneur-stabilo-boss-original-violet,5541</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/surligneur-tl-38-jaune,6726</loc>
@@ -3431,9 +3428,6 @@
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/value-pack-marqueurs-tableaux-blancs-e660-17-3-gratuits-noir,24905</loc>
-  </url>
-  <url>
-    <loc>https://www.papeterie-francaise.com/produit/varta-pile-bouton-alcaline-electronics-lady-lr1,1739</loc>
   </url>
   <url>
     <loc>https://www.papeterie-francaise.com/produit/varta-pile-bouton-alcaline-electronics-v13ga-lr44-1-5-v-125-mah-diametre-de-la-pile-11-6-mm-hauteur-5-4-mm-blister-2,1751</loc>

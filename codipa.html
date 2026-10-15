@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Ouverture de la fiche Codipa</title>
+</head>
+<body>
+  <p id="message">Ouverture de la fiche Codipa…</p>
+  <script>
+    (() => {
+      const message = document.getElementById('message');
+      const target = new URLSearchParams(window.location.search).get('target');
+
+      try {
+        const destination = new URL(target);
+        const validHost = destination.protocol === 'https:' &&
+          destination.hostname === 'extranet.codipaplus.com';
+        const validPath = destination.pathname.startsWith('/iceecommerce/article-codipa/');
+
+        if (!validHost || !validPath) {
+          throw new Error('Adresse refusée');
+        }
+
+        window.location.replace(destination.href);
+      } catch (error) {
+        message.textContent = 'Le lien vers la fiche Codipa est incorrect.';
+      }
+    })();
+  </script>
+</body>
+</html>
